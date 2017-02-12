@@ -16,6 +16,8 @@ The following files are required for the recognition system to work in total[INC
 
 -> feature_database_local_F.mat - (This is an optional file that is included. It contains the complete training feature set for 100 persons palm recognition stored in .mat format.)
 
+*NOTE* The 'feature_database_local_F.mat' file is not included as it is calculated from the input images.
+
 Running the project
 -------------------
 
